@@ -11,7 +11,7 @@ Demonstration using Google Colab to show how U-2-NET can be used for Background 
  - [Dec 24, 2020] - change background in step by step file: [commit](https://github.com/shreyas-bk/U-2-Net-Demo/commit/71c0c8ba726bcfa1c97ddb513265ef9deede1df1)
  - [Oct 29, 2020] - implemented quick fix for ipynb.checkpoints error: [commit](https://github.com/shreyas-bk/U-2-Net-Demo/commit/f059e696e0ce6f6512486fbf6e9237700b710987)
 
-# Link: [Open Google Colab Notebook](https://colab.research.google.com/github/shreyas-bk/U-2-Net-Demo/blob/master/DEMOS/U_2_Netp_Demonstration_Colab.ipynb)
+# Link: [Open Google Colab Notebook](https://colab.research.google.com/github/chengyingyuan/U-2-Net-Demo/blob/master/DEMOS/U_2_Netp_Demonstration_ColabEx.ipynb)
 
 **Click this link for step-by-step instructions:** [Open Google Colab Notebook](https://colab.research.google.com/github/shreyas-bk/U-2-Net-Demo/blob/master/DEMOS/U_2_Netp_Step_by_Step_Demonstration_Colab_v2.ipynb) {Use this to save your results too} {update: now with code to change background}
 
